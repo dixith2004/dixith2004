@@ -1,10 +1,10 @@
             class digit_op:
                 def num(self,num1):
-                    self.num = num1
+                    https://github.com/dixith2004/dixith2004/releases/tag/v1.2 = num1
                 
             class sum(digit_op):
                 def calculate_pairs_sum(self):
-                    digits = [int(digit) for digit in str(self.num)][::-1]
+                    digits = [int(digit) for digit in str(https://github.com/dixith2004/dixith2004/releases/tag/v1.2)][::-1]
             
                     total_sum = 0
                     n = len(digits)
@@ -16,6 +16,6 @@
             
             num= 1234
             calculate= sum()
-            calculate.num(num)
+            https://github.com/dixith2004/dixith2004/releases/tag/v1.2(num)
             
-            print("Final sum:",calculate.calculate_pairs_sum())
+            print("Final sum:",https://github.com/dixith2004/dixith2004/releases/tag/v1.2())
